@@ -9,6 +9,8 @@ Hello! I am a Navy veteran and data analyst experienced in analyzing complex dat
 - [About](#about)
 - [Featured Projects](#featured-projects)
 - [Education](#Education)
+- [Certificates](#certificates)
+- [Contacts](#Contacts)
 
 ## Feature Projects
 
@@ -16,5 +18,5 @@ Hello! I am a Navy veteran and data analyst experienced in analyzing complex dat
 
 ## Certificates
 
-## Contact
+## Contacts
 
