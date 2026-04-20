@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio-
+# Data-Analyst-Portfolio
 
 ## About
 
@@ -17,6 +17,7 @@ Hello! I am a Navy veteran and data analyst experienced in analyzing complex dat
 ## Education
 
 ## Certificates
-
+- Google Data Analytics Professional Certificate (Apr 2026)(Coursera- google)
 ## Contacts
-
+- Email: Mandylanglois46@gmail.com
+  
