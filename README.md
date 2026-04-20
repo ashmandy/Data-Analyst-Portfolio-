@@ -7,3 +7,4 @@ Hello! I am a Navy veteran and data analyst experienced in analyzing complex dat
 
 ## Table of Contents 
 - [About](#about)
+- [Featured Projects](#featured projects)
